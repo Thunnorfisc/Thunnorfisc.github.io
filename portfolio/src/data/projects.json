@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NAgine/Sodium Engine",
+    "thumbnail": "project thumbnails/NAgine.ico",
+    "tags": [
+      "Engine"
+    ],
+    "description": "A fully built ECS custom engine and editor using OpenGL and ImGUI",
+    "link": "/projects/nagine"
+  },
+  {
+    "name": "The Unraveling",
+    "thumbnail": "project thumbnails/Icon.ico",
+    "tags": [
+      "Game"
+    ],
+    "description": "A horror story game built on NAgine",
+    "link": "/projects/theunraveling"
+  },
+  {
+    "name": "Hyperlink",
+    "thumbnail": "project thumbnails/Hyperlink.jpg",
+    "tags": [
+      "Game"
+    ],
+    "description": "A class-switching RPG built on a minimalist engine",
+    "link": "/projects/dungeonsanddeadlines"
+  },
+  {
+    "name": "Short Circuit",
+    "thumbnail": "project thumbnails/Crystal.png",
+    "tags": [
+      "Game"
+    ],
+    "description": "A puzzle game using produceral maps and rougelike mechanics",
+    "link": "/projects/shortcircuit"
+  },
+  {
+    "name": "StrokeNet",
+    "thumbnail": "project thumbnails/StrokeNet.png",
+    "tags": [
+      "Game"
+    ],
+    "description": "A multiplayer scribbling guessing game with custom built networking",
+    "link": "/projects/strokenet"
+  }
+]

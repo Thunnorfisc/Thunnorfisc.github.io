@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Title Screen",
+    "src": "../ShortCircuit/TitleScreen.png",
+    "type": "image"
+  },
+  {
+    "name": "World Map",
+    "src": "../ShortCircuit/WorldMap.png",
+    "type": "image"
+  },
+  {
+    "name": "Inside Battle",
+    "src": "../ShortCircuit/Battle.png",
+    "type": "image"
+  }
+]

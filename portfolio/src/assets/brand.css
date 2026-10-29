@@ -1,0 +1,13 @@
+/*
+ * Portfolio name / brand styling.
+ * Kept in its own file so you can swap the font without touching anything else.
+ * If you use a web font, add its <link> in index.html (or an @import here).
+ */
+.brand-name {
+  font-family: 'Jersey 10 Charted', 'Nunito', system-ui, sans-serif;
+  font-weight: 400; /* Jersey 10 Charted only comes in one weight */
+  line-height: 1;
+  letter-spacing: 0.02em;
+  /* Font size is set in NavBar.vue, since it changes when the navbar collapses */
+  color: var(--color-accent-darker);
+}

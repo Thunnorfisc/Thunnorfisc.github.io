@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Personal contribution showcase",
+    "src": "VID_PersonalContribution.mp4",
+    "type": "video"
+  },
+  {
+    "name": "Level Editor Video",
+    "src": "VID_LevelEditorVideo.mp4",
+    "type": "video"
+  }
+]

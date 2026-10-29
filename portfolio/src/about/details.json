@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Name",
+    "icon": "person.svg",
+    "description": "William Wibisana Dumanauw"
+  },
+  {
+    "title": "Current School",
+    "icon": "school.svg",
+    "description": "DigiPen Institute of Technology Singapore / Singapore Institute of Technology (SIT-DigiPen)"
+  },
+  {
+    "title": "Degree",
+    "icon": "module.svg",
+    "description": "BSc in Computer Science in Real-Time Interactive Simulation (RTIS)"
+  },
+  {
+    "title": "Alma Mater",
+    "icon": "school.svg",
+    "description": "Ngee Ann Polytechnic School of InfoComm Technologies (Diploma in Information Technology)"
+  }
+]

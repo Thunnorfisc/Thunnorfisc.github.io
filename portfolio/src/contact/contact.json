@@ -1,0 +1,26 @@
+{
+  "links": [
+    {
+      "title": "GitHub",
+      "logo": "github.svg",
+      "label": "github.com/Thunnorfisc",
+      "url": "https://github.com/Thunnorfisc",
+      "invertInDark": true
+    },
+    {
+      "title": "LinkedIn",
+      "logo": "linkedin.svg",
+      "label": "linkedin.com/in/william-dumanauw",
+      "url": "https://www.linkedin.com/in/william-dumanauw/",
+      "invertInDark": true
+    },
+    {
+      "title": "Email",
+      "logo": "email.svg",
+      "label": "wibiduma@gmail.com",
+      "url": "mailto:wibiduma@gmail.com",
+      "invertInDark": true
+    }
+  ],
+  "formRecipient": "wibiduma@gmail.com"
+}

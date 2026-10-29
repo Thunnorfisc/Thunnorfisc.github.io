@@ -1,0 +1,27 @@
+[
+  {
+    "title": "School",
+    "icon": "school.svg",
+    "description": "DigiPen Institute of Technology Singapore / Singapore Institute of Technology"
+  },
+  {
+    "title": "Module",
+    "icon": "module.svg",
+    "description": "GAM150, Software Engineering Project 2"
+  },
+  {
+    "title": "Team Size",
+    "icon": "team_size.svg",
+    "description": "Mostly 2, with help from 4"
+  },
+  {
+    "title": "Language",
+    "icon": "prog_lang.svg",
+    "description": "C++"
+  },
+  {
+    "title": "Tools & Libraries",
+    "icon": "tools.svg",
+    "description": "Alpha Engine"
+  }
+]

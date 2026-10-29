@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Title Screen",
+    "src": "../DungeonsAndDeadlines/Title_Screen.png",
+    "type": "image"
+  },
+  {
+    "name": "In-Game",
+    "src": "../DungeonsAndDeadlines/Tutorial.png",
+    "type": "image"
+  },
+  {
+    "name": "Fighting Jeff the Tank",
+    "src": "../DungeonsAndDeadlines/Boss_Fight.png",
+    "type": "image"
+  }
+]
